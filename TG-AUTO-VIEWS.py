@@ -4,4 +4,3 @@
 
 import os
 import tg_views
-import.loging()
